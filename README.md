@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Python, IOS Dev. Swift, Xcode**
 
-- 📫 How to reach me **wkauburn03@gmail.com**
+- 📫 How to reach me **codecowboyinc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
