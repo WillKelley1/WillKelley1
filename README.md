@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=willkelley1" alt="willkelley1" /></a> </p>
 
-- 💬 Ask me about **Python, IOS Dev. Swift, Xcode**
+- 💬 Ask me about **Python, IOS Dev. Swift, Business Automation, Web Development, Mule, SAAS **
 
 - 📫 How to reach me **codecowboyinc@gmail.com**
 
